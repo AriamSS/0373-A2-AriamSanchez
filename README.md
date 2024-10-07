@@ -1,7 +1,7 @@
 # 0373-A2-AriamSanchez
 ASIX1-0373-A2-PuestaEnPractica (Documentación con Markdown)
 
-### **Evaluación inicial**
+## **Evaluación inicial**
 
 #### ¿Qué es una página web?
 
@@ -30,3 +30,8 @@ HTML es es el código que se utiliza para estructurar y desarrollar una página 
 #### ¿Qué es CSS?
 
 CSS se encarga de dar formato a los datos y presentarlos visualmente a través de un navegador, de manera que funciona como complemento a la información que forma parte de un sitio web.
+
+#### ¿Sabes cómo funciona un navegador web? Describe brevemente el proceso que se sigue para visualizar una página web:
+
+respuesta
+

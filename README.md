@@ -46,6 +46,7 @@ CSS se encarga de dar formato a los datos y presentarlos visualmente a través d
 
 5. Interacción del usuario: El usuario puede interactuar con la página o modificar el contenido, lo que puede generar nuevos procesos de renderizado o actualizaciones en el DOM.
 
+
 ![Proceso de visualización de una página web](https://github.com/AriamSS/0373-A2-AriamSanchez/blob/main/figura2.png "Proceso de visualización de una página web")
 
 
